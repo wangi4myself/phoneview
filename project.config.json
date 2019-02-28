@@ -1,0 +1,7 @@
+{
+    "prefix": "financialcustomermanagement",
+    "identifier": {
+        "test": "com.trina.financialcustomermanagementtest",
+        "prod": "com.trina.financialcustomermanagement"
+    }
+}
